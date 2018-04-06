@@ -1,0 +1,1675 @@
+[
+  {
+    "deviceId": "4a0f36bc-9462-4d50-b75f-0608af2649ee",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 11
+    },
+    "dateRegistered": "2018-01-07T19:14:52.164Z",
+    "commands": [
+      {
+        "commandId": "666196c6-597d-4f3e-9655-a37ff05889ca",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-14T12:31:11.666Z",
+        "commandDurationMins": 30,
+        "operationId": "f4208c21-23a3-405b-95d7-1b43f46736a4"
+      }
+    ]
+  },
+  {
+    "deviceId": "09c881b8-cde5-4c6e-afa2-aa7a8ea60413",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 9
+    },
+    "dateRegistered": "2018-01-24T19:54:15.210Z",
+    "commands": [
+      {
+        "commandId": "c809fbd1-0d99-463b-bf01-2ec1384df29e",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-11T12:52:13.972Z",
+        "commandDurationMins": 14,
+        "operationId": "ceace722-ccab-4895-ac00-007afa99e7e8"
+      },
+      {
+        "commandId": "c70c0c49-141f-4d90-8ccc-1dfa62319ca3",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-13T12:00:54.589Z",
+        "commandDurationMins": 26,
+        "operationId": "4daf322e-211e-4fa6-aa19-9da2f0527daa"
+      },
+      {
+        "commandId": "3369a942-70ad-4437-bf05-27c238c6e6f7",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-18T12:30:10.684Z",
+        "commandDurationMins": 23,
+        "operationId": "73e9223a-30c3-4c6d-8c73-bcdc7784e028"
+      },
+      {
+        "commandId": "f2746a92-d696-4af7-9bae-da378bbb7826",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-24T12:29:18.476Z",
+        "commandDurationMins": 11,
+        "operationId": "5e8035c8-d2a1-4c62-a358-2a21cb7e09c4"
+      }
+    ]
+  },
+  {
+    "deviceId": "4b4aba5b-f5bf-4b43-a7f5-7c92b295fd27",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 8
+    },
+    "dateRegistered": "2018-01-21T06:43:41.666Z",
+    "commands": [
+      {
+        "commandId": "cdbeb1e8-0476-41d1-937d-f55e09a91e56",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-13T12:00:54.589Z",
+        "commandDurationMins": 26,
+        "operationId": "4daf322e-211e-4fa6-aa19-9da2f0527daa"
+      },
+      {
+        "commandId": "87c5b100-fa3b-4603-8375-15c005d367e4",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-20T12:13:55.354Z",
+        "commandDurationMins": 10,
+        "operationId": "5d77ce35-cd3c-4875-97ff-68a9fcfd1262"
+      }
+    ]
+  },
+  {
+    "deviceId": "d4ccca2d-ee7e-40f7-a753-4a56c03871d2",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 3
+    },
+    "dateRegistered": "2018-01-22T00:32:01.803Z",
+    "commands": [
+      {
+        "commandId": "cc165ae3-4933-4d5c-b536-10f9c1c9f568",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-11T12:52:13.972Z",
+        "commandDurationMins": 14,
+        "operationId": "ceace722-ccab-4895-ac00-007afa99e7e8"
+      },
+      {
+        "commandId": "a30e9f93-6cc6-401a-8d82-3df195ff58e4",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-17T12:26:15.985Z",
+        "commandDurationMins": 13,
+        "operationId": "deb0a52b-b6a4-4eb9-bdb1-efd229efb041"
+      },
+      {
+        "commandId": "52d7f940-67a9-4a16-8ee4-eb74e7d0a0ab",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-22T12:23:31.296Z",
+        "commandDurationMins": 19,
+        "operationId": "27d23af7-243c-4d1c-8269-bf4727d0f597"
+      }
+    ]
+  },
+  {
+    "deviceId": "8e522d30-99ab-483c-8762-5c6a05ff0f7b",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 10
+    },
+    "dateRegistered": "2018-01-26T17:15:16.604Z",
+    "commands": []
+  },
+  {
+    "deviceId": "2128f514-5555-49a2-837d-b18ea438cf73",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 14
+    },
+    "dateRegistered": "2018-01-15T09:21:27.361Z",
+    "commands": []
+  },
+  {
+    "deviceId": "b80dbf2f-1a43-4284-b5c2-c795be8196dc",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 13
+    },
+    "dateRegistered": "2018-01-21T20:54:58.000Z",
+    "commands": []
+  },
+  {
+    "deviceId": "9cee424a-d734-48fa-bf14-f626069e86e3",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 11
+    },
+    "dateRegistered": "2018-01-21T03:52:15.315Z",
+    "commands": [
+      {
+        "commandId": "456451c3-6dca-4949-a5be-fc05268df1fb",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-10T12:47:59.514Z",
+        "commandDurationMins": 22,
+        "operationId": "e9e7189a-b83d-4b7f-a835-87a1df1f7964"
+      }
+    ]
+  },
+  {
+    "deviceId": "2d9e3b5c-3b95-4386-9a74-84834e552de4",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 11
+    },
+    "dateRegistered": "2018-01-21T01:36:26.517Z",
+    "commands": []
+  },
+  {
+    "deviceId": "6eac0605-e3c0-40e6-aca4-2010df2433d7",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 11
+    },
+    "dateRegistered": "2018-01-16T17:46:03.076Z",
+    "commands": [
+      {
+        "commandId": "8b3162f9-a2e3-44b5-9754-5d544a8dd208",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-13T12:00:54.589Z",
+        "commandDurationMins": 26,
+        "operationId": "4daf322e-211e-4fa6-aa19-9da2f0527daa"
+      }
+    ]
+  },
+  {
+    "deviceId": "cfcc4c3d-e5a2-4222-a183-2004b2193878",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 11
+    },
+    "dateRegistered": "2018-01-30T00:03:15.355Z",
+    "commands": [
+      {
+        "commandId": "958043cc-654f-4c2e-bc78-d76afef7da94",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-24T12:29:18.476Z",
+        "commandDurationMins": 11,
+        "operationId": "5e8035c8-d2a1-4c62-a358-2a21cb7e09c4"
+      }
+    ]
+  },
+  {
+    "deviceId": "b8a4669c-fa7d-4939-a671-00187c463b17",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 13
+    },
+    "dateRegistered": "2018-01-04T09:51:55.882Z",
+    "commands": []
+  },
+  {
+    "deviceId": "ece2d5ff-eace-4243-b1ff-125807f22adb",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 3
+    },
+    "dateRegistered": "2018-01-12T05:33:44.939Z",
+    "commands": [
+      {
+        "commandId": "3a34f6fa-21b0-4eae-9aab-323ea36d8fa5",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-13T12:00:54.589Z",
+        "commandDurationMins": 26,
+        "operationId": "4daf322e-211e-4fa6-aa19-9da2f0527daa"
+      }
+    ]
+  },
+  {
+    "deviceId": "d8ffb350-a83a-4065-90c3-caf67248b77f",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 8
+    },
+    "dateRegistered": "2018-01-13T00:45:47.022Z",
+    "commands": []
+  },
+  {
+    "deviceId": "0bec52cd-71ee-409b-9295-71ff55a89ab1",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 12
+    },
+    "dateRegistered": "2018-01-30T19:37:04.861Z",
+    "commands": []
+  },
+  {
+    "deviceId": "48b8c76f-0bb9-4aa3-a874-05cbef40fd71",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-13T02:24:30.733Z",
+    "commands": []
+  },
+  {
+    "deviceId": "47b4ace2-94d3-4717-a189-281c2d23b934",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 1
+    },
+    "dateRegistered": "2018-01-20T13:32:10.938Z",
+    "commands": [
+      {
+        "commandId": "25bd0a70-b014-4a04-8ca8-5ef0d15429e6",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-20T12:13:55.354Z",
+        "commandDurationMins": 10,
+        "operationId": "5d77ce35-cd3c-4875-97ff-68a9fcfd1262"
+      }
+    ]
+  },
+  {
+    "deviceId": "4f198950-b679-40ee-9746-98566f6f8bd5",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 2
+    },
+    "dateRegistered": "2018-01-07T12:59:56.162Z",
+    "commands": []
+  },
+  {
+    "deviceId": "a2920c10-f7ab-4e48-a051-0527cfb7baa4",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 1
+    },
+    "dateRegistered": "2018-01-25T14:00:36.205Z",
+    "commands": []
+  },
+  {
+    "deviceId": "41600bde-462c-465e-9c83-51e1530311ca",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 11
+    },
+    "dateRegistered": "2018-01-06T06:45:52.390Z",
+    "commands": [
+      {
+        "commandId": "fd69e6d8-3560-4bf4-a97b-e41b05c43a72",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-10T12:47:59.514Z",
+        "commandDurationMins": 22,
+        "operationId": "e9e7189a-b83d-4b7f-a835-87a1df1f7964"
+      },
+      {
+        "commandId": "d2c85639-600b-40ab-9353-87d25d1cfb83",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-20T12:13:55.354Z",
+        "commandDurationMins": 10,
+        "operationId": "5d77ce35-cd3c-4875-97ff-68a9fcfd1262"
+      }
+    ]
+  },
+  {
+    "deviceId": "802763c2-3d1c-4093-9618-1b22bc8bdb18",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 11
+    },
+    "dateRegistered": "2018-01-11T15:35:36.761Z",
+    "commands": []
+  },
+  {
+    "deviceId": "e942d394-20c9-4ccc-8c0b-2a644d8c69f3",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 6
+    },
+    "dateRegistered": "2018-01-24T06:18:38.800Z",
+    "commands": [
+      {
+        "commandId": "42a3daf6-aca2-47bd-89b2-0df536a18767",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-14T12:31:11.666Z",
+        "commandDurationMins": 30,
+        "operationId": "f4208c21-23a3-405b-95d7-1b43f46736a4"
+      },
+      {
+        "commandId": "52ac5bb7-4f0b-4517-af8e-306475e4794e",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-20T12:13:55.354Z",
+        "commandDurationMins": 10,
+        "operationId": "5d77ce35-cd3c-4875-97ff-68a9fcfd1262"
+      }
+    ]
+  },
+  {
+    "deviceId": "7d826b17-6fad-4c8d-b643-6fef3782f433",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 9
+    },
+    "dateRegistered": "2018-01-24T07:13:04.688Z",
+    "commands": [
+      {
+        "commandId": "bcf29027-d0e9-45a1-9c0c-c5d3f5224e7d",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-12T12:34:15.780Z",
+        "commandDurationMins": 13,
+        "operationId": "b0c32f57-8ee8-47f3-98cd-4e252e4bee3b"
+      },
+      {
+        "commandId": "4a79273b-82ab-4ac0-85fe-0173c8c8a3ca",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-14T12:31:11.666Z",
+        "commandDurationMins": 30,
+        "operationId": "f4208c21-23a3-405b-95d7-1b43f46736a4"
+      }
+    ]
+  },
+  {
+    "deviceId": "47298564-751e-458f-a520-1de13093d0bf",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 8
+    },
+    "dateRegistered": "2018-01-17T22:50:03.689Z",
+    "commands": []
+  },
+  {
+    "deviceId": "f87f2a5e-e335-4f0d-a01c-51fa2f0addd6",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-06T22:24:36.674Z",
+    "commands": [
+      {
+        "commandId": "3230bf87-9142-4f83-807d-7c3d6f0d639e",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-13T12:00:54.589Z",
+        "commandDurationMins": 26,
+        "operationId": "4daf322e-211e-4fa6-aa19-9da2f0527daa"
+      },
+      {
+        "commandId": "f64321c0-f1c9-4fee-a2c7-4f49f7b76cd6",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-19T12:57:08.374Z",
+        "commandDurationMins": 29,
+        "operationId": "143564dc-1682-4e7c-8e01-03ace491926a"
+      },
+      {
+        "commandId": "f6dbf185-ef55-44e0-8be4-f754b3f55c73",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-21T12:57:29.244Z",
+        "commandDurationMins": 30,
+        "operationId": "54eaf5af-fa22-4542-bb16-176b643589c5"
+      }
+    ]
+  },
+  {
+    "deviceId": "cd70e892-8528-444e-8b8c-40f7be909ef7",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 12
+    },
+    "dateRegistered": "2018-01-13T21:44:51.172Z",
+    "commands": [
+      {
+        "commandId": "34bd306a-60c1-484b-bf04-9438a9583c7b",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-18T12:30:10.684Z",
+        "commandDurationMins": 23,
+        "operationId": "73e9223a-30c3-4c6d-8c73-bcdc7784e028"
+      },
+      {
+        "commandId": "d235284a-64fa-4b61-86e0-282b6a0f876f",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-21T12:57:29.244Z",
+        "commandDurationMins": 30,
+        "operationId": "54eaf5af-fa22-4542-bb16-176b643589c5"
+      }
+    ]
+  },
+  {
+    "deviceId": "3c08d33d-633f-43c0-99ee-289fb5c43c42",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 10
+    },
+    "dateRegistered": "2018-01-15T11:53:55.001Z",
+    "commands": []
+  },
+  {
+    "deviceId": "96705661-f573-42c0-9a89-36e7b6afd2a8",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 13
+    },
+    "dateRegistered": "2018-01-11T00:06:58.400Z",
+    "commands": [
+      {
+        "commandId": "50a04edf-81b0-4eb7-8435-1ab312da762c",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-10T12:47:59.514Z",
+        "commandDurationMins": 22,
+        "operationId": "e9e7189a-b83d-4b7f-a835-87a1df1f7964"
+      },
+      {
+        "commandId": "16f3c84c-3b67-4bb9-816b-68118a44e76a",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-15T12:51:53.949Z",
+        "commandDurationMins": 30,
+        "operationId": "c23461f6-0671-4bf6-955a-a886160a1845"
+      }
+    ]
+  },
+  {
+    "deviceId": "18b3351f-1abe-443a-9a9f-1a59fe997c97",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 6
+    },
+    "dateRegistered": "2018-01-23T02:38:27.490Z",
+    "commands": [
+      {
+        "commandId": "ce8d8ed0-e4f1-4a9c-bfc4-e3e16ef50ead",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-22T12:23:31.296Z",
+        "commandDurationMins": 19,
+        "operationId": "27d23af7-243c-4d1c-8269-bf4727d0f597"
+      }
+    ]
+  },
+  {
+    "deviceId": "c820f47c-edb8-4ffc-85fb-5ffe793fd7fd",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 5
+    },
+    "dateRegistered": "2018-01-11T20:04:04.396Z",
+    "commands": [
+      {
+        "commandId": "23d3341a-7748-4e64-8f62-797f69680dac",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-14T12:31:11.666Z",
+        "commandDurationMins": 30,
+        "operationId": "f4208c21-23a3-405b-95d7-1b43f46736a4"
+      }
+    ]
+  },
+  {
+    "deviceId": "b00d4465-ea9b-41d7-b39e-2ea476eaa6be",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 6
+    },
+    "dateRegistered": "2018-01-22T00:21:21.772Z",
+    "commands": []
+  },
+  {
+    "deviceId": "e13d2d2e-4219-4c1c-a80b-14312861a43d",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": true
+    },
+    "dateRegistered": "2018-01-20T02:01:55.621Z",
+    "commands": []
+  },
+  {
+    "deviceId": "05fd73d0-323c-4f48-a30c-8954d86e07fa",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 14
+    },
+    "dateRegistered": "2018-01-26T07:04:08.421Z",
+    "commands": []
+  },
+  {
+    "deviceId": "cfaac99f-e562-46c9-af31-7c682184add7",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 7
+    },
+    "dateRegistered": "2018-01-04T01:26:15.255Z",
+    "commands": []
+  },
+  {
+    "deviceId": "d4273015-c5c4-4d87-8f8f-ef1dc39121ca",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-23T08:30:58.100Z",
+    "commands": []
+  },
+  {
+    "deviceId": "f189274c-a930-43ca-979e-094a079278fc",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 2
+    },
+    "dateRegistered": "2018-01-03T13:33:39.804Z",
+    "commands": [
+      {
+        "commandId": "7dc7a5fa-f9eb-4083-87e2-8cd9fd7606fb",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-24T12:29:18.476Z",
+        "commandDurationMins": 11,
+        "operationId": "5e8035c8-d2a1-4c62-a358-2a21cb7e09c4"
+      }
+    ]
+  },
+  {
+    "deviceId": "ab75d389-1c42-40c8-860c-d1bd17fa130d",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-18T14:49:12.586Z",
+    "commands": [
+      {
+        "commandId": "a6168b38-a113-4d28-a8e3-59f43e7ea35b",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-14T12:31:11.666Z",
+        "commandDurationMins": 30,
+        "operationId": "f4208c21-23a3-405b-95d7-1b43f46736a4"
+      }
+    ]
+  },
+  {
+    "deviceId": "8471a6b8-0786-44c4-9243-faecd127eab6",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 2
+    },
+    "dateRegistered": "2018-01-08T16:17:44.909Z",
+    "commands": []
+  },
+  {
+    "deviceId": "c80c99f4-f9d4-4ae4-b5c7-6ce435ea9751",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 12
+    },
+    "dateRegistered": "2018-01-25T16:54:02.904Z",
+    "commands": []
+  },
+  {
+    "deviceId": "f40b4540-228f-4795-b87c-a543b1aedfc7",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 7
+    },
+    "dateRegistered": "2018-01-02T21:01:19.404Z",
+    "commands": [
+      {
+        "commandId": "4930574f-6333-41c9-bb63-a4de4975e040",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-22T12:23:31.296Z",
+        "commandDurationMins": 19,
+        "operationId": "27d23af7-243c-4d1c-8269-bf4727d0f597"
+      },
+      {
+        "commandId": "a699a0d7-667b-4b1f-b315-cadc13b3e5ca",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-23T12:19:12.613Z",
+        "commandDurationMins": 28,
+        "operationId": "6315aa89-fa85-4d30-b14b-7a615068b688"
+      }
+    ]
+  },
+  {
+    "deviceId": "0754dc6c-d486-4666-9a61-5614a89b4567",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 13
+    },
+    "dateRegistered": "2018-01-01T17:29:03.038Z",
+    "commands": [
+      {
+        "commandId": "a5d0fd19-6d03-498f-87a1-5a707eb64c95",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-16T12:47:45.751Z",
+        "commandDurationMins": 18,
+        "operationId": "7c410890-a973-4d74-baa9-644ea2a72509"
+      },
+      {
+        "commandId": "1721b0a5-5890-4a80-8cb1-62b97592d3b5",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-17T12:26:15.985Z",
+        "commandDurationMins": 13,
+        "operationId": "deb0a52b-b6a4-4eb9-bdb1-efd229efb041"
+      },
+      {
+        "commandId": "6ed2f559-941b-424e-9688-cd2f1fcbeba8",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-20T12:13:55.354Z",
+        "commandDurationMins": 10,
+        "operationId": "5d77ce35-cd3c-4875-97ff-68a9fcfd1262"
+      },
+      {
+        "commandId": "7e12163b-d5c1-4127-822f-add0a0d91f17",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-21T12:57:29.244Z",
+        "commandDurationMins": 30,
+        "operationId": "54eaf5af-fa22-4542-bb16-176b643589c5"
+      }
+    ]
+  },
+  {
+    "deviceId": "d83079e2-81b2-464a-97d4-3a2c13f2c553",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 5
+    },
+    "dateRegistered": "2018-01-11T19:27:30.615Z",
+    "commands": []
+  },
+  {
+    "deviceId": "9b47e458-70a0-437b-8522-fb0fe6018f07",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-20T11:27:20.490Z",
+    "commands": [
+      {
+        "commandId": "b43b1ee2-560d-49e4-b291-558789e8e29c",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-20T12:13:55.354Z",
+        "commandDurationMins": 10,
+        "operationId": "5d77ce35-cd3c-4875-97ff-68a9fcfd1262"
+      }
+    ]
+  },
+  {
+    "deviceId": "ff0cbf6a-b21e-48a3-9192-7f8c946ce798",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-08T22:55:35.644Z",
+    "commands": [
+      {
+        "commandId": "07fd50a8-931a-43dd-8730-8f38ee48474e",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-17T12:26:15.985Z",
+        "commandDurationMins": 13,
+        "operationId": "deb0a52b-b6a4-4eb9-bdb1-efd229efb041"
+      },
+      {
+        "commandId": "040d8f00-8d20-40a7-b363-e817c4d4ddc6",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-24T12:29:18.476Z",
+        "commandDurationMins": 11,
+        "operationId": "5e8035c8-d2a1-4c62-a358-2a21cb7e09c4"
+      }
+    ]
+  },
+  {
+    "deviceId": "a69602f9-4ad9-4357-a872-0020fba6e794",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 13
+    },
+    "dateRegistered": "2018-01-24T11:11:47.129Z",
+    "commands": []
+  },
+  {
+    "deviceId": "b252aa02-2cfe-486b-b32c-0de29385328f",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-07T21:47:47.603Z",
+    "commands": [
+      {
+        "commandId": "d3d105ac-b920-47d6-9ab8-1a4e97465fd3",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-17T12:26:15.985Z",
+        "commandDurationMins": 13,
+        "operationId": "deb0a52b-b6a4-4eb9-bdb1-efd229efb041"
+      },
+      {
+        "commandId": "a82d6bf6-e80a-4e03-a5ec-d151ad243a86",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-21T12:57:29.244Z",
+        "commandDurationMins": 30,
+        "operationId": "54eaf5af-fa22-4542-bb16-176b643589c5"
+      }
+    ]
+  },
+  {
+    "deviceId": "d80a6709-d84b-47ff-abd0-f66f1b49e765",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-22T16:00:27.415Z",
+    "commands": [
+      {
+        "commandId": "7e85b064-0b41-4154-acb6-3b8db185e7a8",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-13T12:00:54.589Z",
+        "commandDurationMins": 26,
+        "operationId": "4daf322e-211e-4fa6-aa19-9da2f0527daa"
+      }
+    ]
+  },
+  {
+    "deviceId": "2c0d8630-e237-42b8-a167-b014cbe74024",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "commands": [
+      {
+        "commandId": "ff4fe845-06fb-4458-883f-2a946a4cf5c5",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-18T12:30:10.684Z",
+        "commandDurationMins": 23,
+        "operationId": "73e9223a-30c3-4c6d-8c73-bcdc7784e028"
+      },
+      {
+        "commandId": "d66c76fd-6d73-456f-8e96-95d67c22406c",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-24T12:29:18.476Z",
+        "commandDurationMins": 11,
+        "operationId": "5e8035c8-d2a1-4c62-a358-2a21cb7e09c4"
+      }
+    ]
+  },
+  {
+    "deviceId": "2f3622a0-c9cb-4efc-9164-ac551fc075eb",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 4
+    },
+    "dateRegistered": "2018-01-28T17:10:03.543Z",
+    "commands": [
+      {
+        "commandId": "111bf7fb-fa80-4889-8e77-70d57c52cb66",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-18T12:30:10.684Z",
+        "commandDurationMins": 23,
+        "operationId": "73e9223a-30c3-4c6d-8c73-bcdc7784e028"
+      }
+    ]
+  },
+  {
+    "deviceId": "6d60948d-5b92-43e4-b4bf-fb679f90a205",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 1
+    },
+    "dateRegistered": "2018-01-30T09:54:47.299Z",
+    "commands": [
+      {
+        "commandId": "733343b6-4a08-4918-aa81-427b6a548a45",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-11T12:52:13.972Z",
+        "commandDurationMins": 14,
+        "operationId": "ceace722-ccab-4895-ac00-007afa99e7e8"
+      }
+    ]
+  },
+  {
+    "deviceId": "3af9cf9e-51fc-4ce3-8d4f-6b3c1b3e3e84",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 3
+    },
+    "dateRegistered": "2018-01-30T11:01:39.063Z",
+    "commands": []
+  },
+  {
+    "deviceId": "9fa995c2-d896-45b6-91c2-a8ccc7b4709e",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 14
+    },
+    "dateRegistered": "2018-01-29T15:48:34.645Z",
+    "commands": []
+  },
+  {
+    "deviceId": "749a4ad2-9091-49da-8cdf-2ecf9ff3688c",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 14
+    },
+    "dateRegistered": "2018-01-15T07:01:16.189Z",
+    "commands": [
+      {
+        "commandId": "53a91a90-f93d-4308-95f2-2b54504e221e",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-20T12:13:55.354Z",
+        "commandDurationMins": 10,
+        "operationId": "5d77ce35-cd3c-4875-97ff-68a9fcfd1262"
+      }
+    ]
+  },
+  {
+    "deviceId": "b7a45965-88eb-4e35-8da5-4011d0f664dd",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 9
+    },
+    "dateRegistered": "2018-01-31T14:03:00.230Z",
+    "commands": [
+      {
+        "commandId": "c23886f8-512f-422d-b436-3fb609c8fd1e",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-17T12:26:15.985Z",
+        "commandDurationMins": 13,
+        "operationId": "deb0a52b-b6a4-4eb9-bdb1-efd229efb041"
+      },
+      {
+        "commandId": "44535715-4d58-47cc-80ee-1be9645de085",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-20T12:13:55.354Z",
+        "commandDurationMins": 10,
+        "operationId": "5d77ce35-cd3c-4875-97ff-68a9fcfd1262"
+      },
+      {
+        "commandId": "cc4818ce-4eeb-4437-80c3-2b2e241dcbc6",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-23T12:19:12.613Z",
+        "commandDurationMins": 28,
+        "operationId": "6315aa89-fa85-4d30-b14b-7a615068b688"
+      }
+    ]
+  },
+  {
+    "deviceId": "296f3755-cd05-4a54-a4e5-f58a7b3b967c",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 2
+    },
+    "dateRegistered": "2018-01-28T11:02:08.421Z",
+    "commands": [
+      {
+        "commandId": "f371ba24-3784-4703-93e1-2d841fca6bd1",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-15T12:51:53.949Z",
+        "commandDurationMins": 30,
+        "operationId": "c23461f6-0671-4bf6-955a-a886160a1845"
+      }
+    ]
+  },
+  {
+    "deviceId": "c674b649-282e-4821-acdc-0c27e0e11138",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 11
+    },
+    "dateRegistered": "2018-01-26T04:26:42.295Z",
+    "commands": [
+      {
+        "commandId": "79e7b4d1-5d5a-42ad-b4da-72c77504327f",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-14T12:31:11.666Z",
+        "commandDurationMins": 30,
+        "operationId": "f4208c21-23a3-405b-95d7-1b43f46736a4"
+      }
+    ]
+  },
+  {
+    "deviceId": "f53bbc44-9a96-49c7-a53a-ca69cc17e001",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true
+    },
+    "dateRegistered": "2018-01-11T18:24:28.455Z",
+    "commands": []
+  },
+  {
+    "deviceId": "c7e46331-9609-4b81-ac2c-b9b08de360b1",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": false
+    },
+    "dateRegistered": "2018-01-26T07:56:55.810Z",
+    "commands": []
+  },
+  {
+    "deviceId": "58435149-0396-4ed2-a19d-b06d99d82857",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 1
+    },
+    "dateRegistered": "2018-01-27T06:41:46.339Z",
+    "commands": [
+      {
+        "commandId": "18068d41-89d4-4423-abd4-f5b4c0e697c9",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-18T12:30:10.684Z",
+        "commandDurationMins": 23,
+        "operationId": "73e9223a-30c3-4c6d-8c73-bcdc7784e028"
+      }
+    ]
+  },
+  {
+    "deviceId": "2dc2e8eb-e1eb-41c5-8002-1fb1abb6b992",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 10
+    },
+    "dateRegistered": "2018-01-18T15:01:54.546Z",
+    "commands": []
+  },
+  {
+    "deviceId": "d7c3ae15-e8a9-4806-9e49-b03b473cdd1b",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 3
+    },
+    "dateRegistered": "2018-01-12T16:55:50.569Z",
+    "commands": [
+      {
+        "commandId": "863afed6-bc14-4ea0-9f65-e30602373800",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-17T12:26:15.985Z",
+        "commandDurationMins": 13,
+        "operationId": "deb0a52b-b6a4-4eb9-bdb1-efd229efb041"
+      },
+      {
+        "commandId": "09ef0848-15c4-49ce-8bab-75b4988ee339",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-20T12:13:55.354Z",
+        "commandDurationMins": 10,
+        "operationId": "5d77ce35-cd3c-4875-97ff-68a9fcfd1262"
+      }
+    ]
+  },
+  {
+    "deviceId": "7a28f1a3-0e8d-442e-995d-3ea6b552c118",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 5
+    },
+    "dateRegistered": "2018-01-29T20:37:41.158Z",
+    "commands": []
+  },
+  {
+    "deviceId": "277da3fb-a669-42f3-bb14-db1a4eb72873",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 10
+    },
+    "dateRegistered": "2018-01-13T03:06:51.548Z",
+    "commands": [
+      {
+        "commandId": "f5bdfecf-cb1c-4d0f-af38-5a73b427a9f5",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-21T12:57:29.244Z",
+        "commandDurationMins": 30,
+        "operationId": "54eaf5af-fa22-4542-bb16-176b643589c5"
+      }
+    ]
+  },
+  {
+    "deviceId": "b3076585-9a6f-4a3b-b6e1-6b4b7b634e33",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 2
+    },
+    "dateRegistered": "2018-01-18T04:54:36.305Z",
+    "commands": []
+  },
+  {
+    "deviceId": "8bc43035-5119-4827-896d-1052277f980e",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 13
+    },
+    "dateRegistered": "2018-01-14T12:48:38.420Z",
+    "commands": []
+  },
+  {
+    "deviceId": "e7f95115-339e-4edc-aa32-6bbc109a8b1d",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 1
+    },
+    "dateRegistered": "2018-01-28T17:54:33.804Z",
+    "commands": []
+  },
+  {
+    "deviceId": "c7294522-1bf6-4b5b-b7a1-976f6dee139c",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 11
+    },
+    "dateRegistered": "2018-01-02T10:29:34.500Z",
+    "commands": []
+  },
+  {
+    "deviceId": "bfff58e7-8b20-4113-85f9-fe9ba0004a91",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 8
+    },
+    "dateRegistered": "2018-01-23T09:20:12.190Z",
+    "commands": [
+      {
+        "commandId": "95b87957-0b16-4b81-bbf8-12cc57fffaed",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-10T12:47:59.514Z",
+        "commandDurationMins": 22,
+        "operationId": "e9e7189a-b83d-4b7f-a835-87a1df1f7964"
+      },
+      {
+        "commandId": "c648ec30-77af-4070-95d4-96954339f7f5",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-15T12:51:53.949Z",
+        "commandDurationMins": 30,
+        "operationId": "c23461f6-0671-4bf6-955a-a886160a1845"
+      }
+    ]
+  },
+  {
+    "deviceId": "207e797d-1bc6-4be5-a467-23429e397100",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 7
+    },
+    "dateRegistered": "2018-01-01T23:46:30.197Z",
+    "commands": [
+      {
+        "commandId": "f70c1251-6078-46c9-9d3f-3186ecd370ee",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-14T12:31:11.666Z",
+        "commandDurationMins": 30,
+        "operationId": "f4208c21-23a3-405b-95d7-1b43f46736a4"
+      },
+      {
+        "commandId": "e2a51391-d518-45cf-bb56-70af829ed2d2",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-23T12:19:12.613Z",
+        "commandDurationMins": 28,
+        "operationId": "6315aa89-fa85-4d30-b14b-7a615068b688"
+      }
+    ]
+  },
+  {
+    "deviceId": "edd1ccc9-bb2e-4699-84ca-392875bf6777",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 5
+    },
+    "dateRegistered": "2018-01-24T03:54:11.334Z",
+    "commands": []
+  },
+  {
+    "deviceId": "5aae4d18-386f-4aa9-9e9d-eff886ff7c7b",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 2
+    },
+    "dateRegistered": "2018-01-29T06:34:51.657Z",
+    "commands": [
+      {
+        "commandId": "5bcf1be9-18e9-4393-a38c-43124fede174",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-10T12:47:59.514Z",
+        "commandDurationMins": 22,
+        "operationId": "e9e7189a-b83d-4b7f-a835-87a1df1f7964"
+      }
+    ]
+  },
+  {
+    "deviceId": "164a44cb-fe97-463a-bc6b-d0613eecfb5b",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 13
+    },
+    "dateRegistered": "2018-01-03T11:54:14.938Z",
+    "commands": [
+      {
+        "commandId": "d5cf184d-5e26-4586-b2ef-6fbe2fd15754",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-24T12:29:18.476Z",
+        "commandDurationMins": 11,
+        "operationId": "5e8035c8-d2a1-4c62-a358-2a21cb7e09c4"
+      }
+    ]
+  },
+  {
+    "deviceId": "f7e66007-f9fe-464c-aa3f-cc787eefa941",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-04T15:11:47.403Z",
+    "commands": [
+      {
+        "commandId": "1827fd62-e763-4658-92e0-0f88f95d5233",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-21T12:57:29.244Z",
+        "commandDurationMins": 30,
+        "operationId": "54eaf5af-fa22-4542-bb16-176b643589c5"
+      }
+    ]
+  },
+  {
+    "deviceId": "2680430f-0318-4ca5-8fa6-070632dffd48",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 12
+    },
+    "dateRegistered": "2018-01-13T05:31:36.430Z",
+    "commands": []
+  },
+  {
+    "deviceId": "b360a6ab-5640-4b25-af0f-98614439cf67",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 1
+    },
+    "dateRegistered": "2018-01-12T00:54:18.784Z",
+    "commands": [
+      {
+        "commandId": "21009f1a-e786-4dd2-bb26-56c18d03795d",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-24T12:29:18.476Z",
+        "commandDurationMins": 11,
+        "operationId": "5e8035c8-d2a1-4c62-a358-2a21cb7e09c4"
+      }
+    ]
+  },
+  {
+    "deviceId": "ef225f26-4bfa-4b2e-b312-0d32b49e4d15",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true
+    },
+    "dateRegistered": "2018-01-03T05:09:27.439Z",
+    "commands": [
+      {
+        "commandId": "9c8d6653-2a52-4cd3-92a3-b9ee4e04aebb",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-21T12:57:29.244Z",
+        "commandDurationMins": 30,
+        "operationId": "54eaf5af-fa22-4542-bb16-176b643589c5"
+      }
+    ]
+  },
+  {
+    "deviceId": "bdd41ef7-e3e9-4d24-b788-ba52eea7fb05",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 12
+    },
+    "commands": [
+      {
+        "commandId": "ffcd79e0-5c00-4e88-b532-10e7f69a74d3",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-13T12:00:54.589Z",
+        "commandDurationMins": 26,
+        "operationId": "4daf322e-211e-4fa6-aa19-9da2f0527daa"
+      },
+      {
+        "commandId": "d10f6c32-24bf-4e00-9e36-fd4e4296bf31",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-17T12:26:15.985Z",
+        "commandDurationMins": 13,
+        "operationId": "deb0a52b-b6a4-4eb9-bdb1-efd229efb041"
+      }
+    ]
+  },
+  {
+    "deviceId": "68e2c3b1-55d2-4b6f-8872-c91f0611dd22",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 8
+    },
+    "dateRegistered": "2018-01-22T18:09:59.539Z",
+    "commands": []
+  },
+  {
+    "deviceId": "3f0b06cc-5dcb-47d6-a9a5-46ec838b0b96",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 7
+    },
+    "dateRegistered": "2018-01-02T20:11:37.034Z",
+    "commands": [
+      {
+        "commandId": "c0be9d2d-a137-45b6-a85e-ec7428cc17d7",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-16T12:47:45.751Z",
+        "commandDurationMins": 18,
+        "operationId": "7c410890-a973-4d74-baa9-644ea2a72509"
+      }
+    ]
+  },
+  {
+    "deviceId": "b3baf250-1e38-4b18-a695-0eb6baf513fc",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 12
+    },
+    "dateRegistered": "2018-01-16T13:21:13.658Z",
+    "commands": [
+      {
+        "commandId": "a7eb5e33-f3a5-4257-9c78-573be9672915",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-23T12:19:12.613Z",
+        "commandDurationMins": 28,
+        "operationId": "6315aa89-fa85-4d30-b14b-7a615068b688"
+      }
+    ]
+  },
+  {
+    "deviceId": "9bde92dd-6451-4274-b76e-2c28114f8e57",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-16T13:11:59.109Z",
+    "commands": []
+  },
+  {
+    "deviceId": "bf6dca77-7524-470f-a2f9-dcb4946a2f36",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-09T17:49:12.038Z",
+    "commands": [
+      {
+        "commandId": "57eed8b7-6abe-47f5-9eb1-dbc66f340ca4",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-10T12:47:59.514Z",
+        "commandDurationMins": 22,
+        "operationId": "e9e7189a-b83d-4b7f-a835-87a1df1f7964"
+      },
+      {
+        "commandId": "0989c26f-a771-4fa1-8a6c-eeba437a0432",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-18T12:30:10.684Z",
+        "commandDurationMins": 23,
+        "operationId": "73e9223a-30c3-4c6d-8c73-bcdc7784e028"
+      },
+      {
+        "commandId": "0dd4b51e-726f-4a92-84fa-e41c77bb8077",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-24T12:29:18.476Z",
+        "commandDurationMins": 11,
+        "operationId": "5e8035c8-d2a1-4c62-a358-2a21cb7e09c4"
+      }
+    ]
+  },
+  {
+    "deviceId": "0500c867-f632-414d-b07d-19317700fcca",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 3
+    },
+    "dateRegistered": "2018-01-15T23:34:42.281Z",
+    "commands": [
+      {
+        "commandId": "4ef28700-ca79-490f-8052-1940acfdb6d0",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-21T12:57:29.244Z",
+        "commandDurationMins": 30,
+        "operationId": "54eaf5af-fa22-4542-bb16-176b643589c5"
+      },
+      {
+        "commandId": "bc0be082-d889-4c6d-9bbf-e38c5f4ca245",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-24T12:29:18.476Z",
+        "commandDurationMins": 11,
+        "operationId": "5e8035c8-d2a1-4c62-a358-2a21cb7e09c4"
+      }
+    ]
+  },
+  {
+    "deviceId": "284b5d21-ab17-408e-8112-e0c930e401be",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 6
+    },
+    "dateRegistered": "2018-01-27T23:03:58.537Z",
+    "commands": [
+      {
+        "commandId": "4e9fd811-ae5a-4505-85ba-dfdc532dbfef",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-13T12:00:54.589Z",
+        "commandDurationMins": 26,
+        "operationId": "4daf322e-211e-4fa6-aa19-9da2f0527daa"
+      },
+      {
+        "commandId": "89850d75-c229-4149-b813-effd45ed475a",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-17T12:26:15.985Z",
+        "commandDurationMins": 13,
+        "operationId": "deb0a52b-b6a4-4eb9-bdb1-efd229efb041"
+      }
+    ]
+  },
+  {
+    "deviceId": "748ec93d-04d7-4b7b-aecc-f71689eab3cb",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 6
+    },
+    "dateRegistered": "2018-01-14T06:17:48.604Z",
+    "commands": [
+      {
+        "commandId": "7d2eeefc-2a12-46fc-8d00-5d80b3d4fb08",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-23T12:19:12.613Z",
+        "commandDurationMins": 28,
+        "operationId": "6315aa89-fa85-4d30-b14b-7a615068b688"
+      }
+    ]
+  },
+  {
+    "deviceId": "a30536f6-2110-4d9e-ba3e-c776e927891a",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 12
+    },
+    "dateRegistered": "2018-01-18T11:58:20.465Z",
+    "commands": [
+      {
+        "commandId": "0ff11410-60ed-4cf6-85fa-e975326edf13",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-14T12:31:11.666Z",
+        "commandDurationMins": 30,
+        "operationId": "f4208c21-23a3-405b-95d7-1b43f46736a4"
+      }
+    ]
+  },
+  {
+    "deviceId": "4f4d6960-27e1-4ecf-b006-307232eae385",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-01T08:23:19.606Z",
+    "commands": []
+  },
+  {
+    "deviceId": "3e301b4e-3480-475f-af09-b8df394a361e",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 7
+    },
+    "dateRegistered": "2018-01-04T08:10:47.852Z",
+    "commands": []
+  },
+  {
+    "deviceId": "3eb1cb9d-48e5-402f-90f4-af0269017e6f",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 1
+    },
+    "dateRegistered": "2018-01-02T11:22:28.034Z",
+    "commands": [
+      {
+        "commandId": "43f7de2d-9b38-40a6-8888-130d3cf437c8",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-13T12:00:54.589Z",
+        "commandDurationMins": 26,
+        "operationId": "4daf322e-211e-4fa6-aa19-9da2f0527daa"
+      },
+      {
+        "commandId": "ffab432c-2a24-4314-b7b6-454a296a79fe",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-17T12:26:15.985Z",
+        "commandDurationMins": 13,
+        "operationId": "deb0a52b-b6a4-4eb9-bdb1-efd229efb041"
+      }
+    ]
+  },
+  {
+    "deviceId": "7d606e21-f4a5-4b2c-8fc8-19b141b12f04",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-10T14:29:42.558Z",
+    "commands": []
+  },
+  {
+    "deviceId": "5a9284f3-5900-4469-afc1-b28751b15a9a",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 5
+    },
+    "dateRegistered": "2018-01-03T19:08:08.737Z",
+    "commands": [
+      {
+        "commandId": "df039ebe-3290-4226-8e56-23efd9a79c6c",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-24T12:29:18.476Z",
+        "commandDurationMins": 11,
+        "operationId": "5e8035c8-d2a1-4c62-a358-2a21cb7e09c4"
+      }
+    ]
+  },
+  {
+    "deviceId": "006ae69c-c3af-47b9-9a2d-95f4fb06155b",
+    "deviceType": "heater",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 11
+    },
+    "dateRegistered": "2018-01-20T17:49:00.321Z",
+    "commands": []
+  },
+  {
+    "deviceId": "99fa9990-f4ab-475c-938d-23140d2089c3",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 5
+    },
+    "dateRegistered": "2018-01-13T18:12:57.969Z",
+    "commands": []
+  },
+  {
+    "deviceId": "8fd266b0-fbdb-46e0-bf34-67e648f36f6d",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 6
+    },
+    "dateRegistered": "2018-01-05T10:50:11.066Z",
+    "commands": []
+  },
+  {
+    "deviceId": "62fdfe78-cc52-4ce8-a8c0-bcc47ed1671c",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 11
+    },
+    "dateRegistered": "2018-01-20T17:57:17.414Z",
+    "commands": [
+      {
+        "commandId": "3596a9b5-3efe-4afc-9541-1444f5671b47",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-17T12:26:15.985Z",
+        "commandDurationMins": 13,
+        "operationId": "deb0a52b-b6a4-4eb9-bdb1-efd229efb041"
+      },
+      {
+        "commandId": "0c6e6087-191c-4b9b-97ac-f9a275c3ba63",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-21T12:57:29.244Z",
+        "commandDurationMins": 30,
+        "operationId": "54eaf5af-fa22-4542-bb16-176b643589c5"
+      }
+    ]
+  },
+  {
+    "deviceId": "cfb84a3c-b611-4e92-8841-788ef141423c",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": false,
+      "powerConsumptionInKilowatts": 0
+    },
+    "dateRegistered": "2018-01-19T19:26:47.367Z",
+    "commands": []
+  },
+  {
+    "deviceId": "33387cbf-258d-4313-a8bd-a79197f4cbc7",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 5
+    },
+    "dateRegistered": "2018-01-26T04:05:42.561Z",
+    "commands": []
+  },
+  {
+    "deviceId": "8203c62f-4d0d-40c9-a4b7-64d196288688",
+    "deviceType": "chiller",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 12
+    },
+    "dateRegistered": "2018-01-20T04:50:58.858Z",
+    "commands": [
+      {
+        "commandId": "3227293b-266d-47c7-8234-b16bfad0806d",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-10T12:47:59.514Z",
+        "commandDurationMins": 22,
+        "operationId": "e9e7189a-b83d-4b7f-a835-87a1df1f7964"
+      },
+      {
+        "commandId": "b9514c00-53d8-4695-b43d-3a7a587eeed2",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-18T12:30:10.684Z",
+        "commandDurationMins": 23,
+        "operationId": "73e9223a-30c3-4c6d-8c73-bcdc7784e028"
+      }
+    ]
+  },
+  {
+    "deviceId": "1bacc3e6-f0c5-4b5c-8175-901b127ef96c",
+    "deviceType": "charger",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 9
+    },
+    "dateRegistered": "2018-01-31T15:24:30.688Z",
+    "commands": [
+      {
+        "commandId": "fae8b07f-dfb7-40c4-97af-77a02375d723",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-10T12:47:59.514Z",
+        "commandDurationMins": 22,
+        "operationId": "e9e7189a-b83d-4b7f-a835-87a1df1f7964"
+      }
+    ]
+  },
+  {
+    "deviceId": "789f66b1-9e73-4423-8103-9400c5bf3906",
+    "deviceType": "unknown",
+    "deviceState": {
+      "turnedOn": true,
+      "powerConsumptionInKilowatts": 14
+    },
+    "dateRegistered": "2018-01-01T10:30:58.490Z",
+    "commands": [
+      {
+        "commandId": "b11dd10e-6867-49ea-93b7-0948e25b039b",
+        "commandType": "turnDown",
+        "timeIssued": "2018-01-10T12:47:59.514Z",
+        "commandDurationMins": 22,
+        "operationId": "e9e7189a-b83d-4b7f-a835-87a1df1f7964"
+      }
+    ]
+  }
+]
