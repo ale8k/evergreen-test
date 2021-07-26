@@ -80,10 +80,3 @@ Show all devices with a power consumption above a specified threshold, measured 
 * For example, "show me all devices using at least 5kW".
 * The response should look the same as in Requirement 1, but filtered to only those devices matching the type specified in the request.
 
-**Requirement 4**
-
-Show all devices under control at a specified point in time.
-
-* Each device has a list of commands which have been issued to it.
-* Each command has a "start point" of when the device began being controlled, and a "duration" (in minutes) of how long the control was active for.
-* "Under control" means the device has a command which was still active at that point of time (e.g. the duration had not yet elapsed).
