@@ -21,6 +21,8 @@ export default class DeviceRoutes implements IRoute {
      * Middleware & controller setup
      */
     constructor() {
+        this.ROUTER.get(this.RESOURCE_LOC + "/:type", DeviceController.getAllDevicesByType);
         this.ROUTER.get(this.RESOURCE_LOC + "/", DeviceController.getAllDevices);
+
     }
 }
